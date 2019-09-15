@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testAgora</string>
+    <string name="agora_app_id">1e505a10ac114e4db089784490ea31df </string>
+    <string name="agora_app_certificate">c9e7a530ef3b47ec85d3d51bb3f65935</string>
+    <string name="waiting_alert_text">正在等待对方接听....</string>
+    <string name="accept_alert_text">正在通话中....</string>
+    <string name="finished_alert_text">对方已结束通话！！！</string>
+</resources>

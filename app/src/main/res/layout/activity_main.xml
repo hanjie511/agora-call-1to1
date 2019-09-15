@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="call to zhangsan"
+    android:onClick="call_to_zhangsan"
+    android:id="@+id/call_to_zhangsan_btn"
+    />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="call to lisi"
+        android:onClick="call_to_lisi"
+        android:id="@+id/call_to_lisi_btn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="login out"
+        android:onClick="login_out"
+        android:id="@+id/login_out_btn"
+        />
+</LinearLayout>
